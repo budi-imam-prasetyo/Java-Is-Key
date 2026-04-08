@@ -6,7 +6,7 @@ public class NamaUsia {
         System.out.print("Masukkan nama Anda: ");
         String name = input.nextLine();
         System.out.print("Masukkan nama Anda: ");
-        String age = String.valueOf(input.nextInt());
+        String age = input.nextLine();
 
         System.out.println("Halo, " + name + "! Anda Berusia " + age + " tahun.");
         input.close();

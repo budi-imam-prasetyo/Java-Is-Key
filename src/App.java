@@ -16,6 +16,15 @@ public class App{
         System.out.println("10. Menghitung Gaji");
         System.out.println("11. Tiket Wisata");
         System.out.println("12. Array");
+        System.out.println("13. Array2D");
+        System.out.println("14. Array3D");
+        System.out.println("15. ArrayList1D");
+        System.out.println("16. ArrayList2D");
+        System.out.println("17. ArrayListClass");
+        System.out.println("18. Konstruktor");
+        System.out.println("19. Composition");
+        System.out.println("20. Association");
+        System.out.println("21. Agregation");
         System.out.print("pilih nomor program : ");
         int input = scanner.nextInt();
         switch(input){
@@ -54,6 +63,33 @@ public class App{
                 break;
             case 12:
                 new Array();
+                break;
+            case 13:
+                new Array2D();
+                break;
+            case 14:
+                new Array3D();
+                break;
+            case 15:
+                new ArrayList1D();
+                break;
+            case 16:
+                new ArrayList2D();
+                break;
+            case 17:
+                new ArrayListClass();
+                break;
+            case 18:
+                new Konstruktor();
+                break;
+            case 19:
+                new Composition();
+                break;
+            case 20:
+                new Association();
+                break;
+            case 21:
+                new Agregation();
                 break;
             default:
                 System.out.println("Input tidak valid.");
