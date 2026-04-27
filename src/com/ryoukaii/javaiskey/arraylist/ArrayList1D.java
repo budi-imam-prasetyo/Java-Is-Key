@@ -1,6 +1,7 @@
+package com.ryoukaii.javaiskey.arraylist;
+
 import java.util.ArrayList;
 import java.util.Scanner;
-//import java.util.List;
 
 public class ArrayList1D {
     public ArrayList1D() {

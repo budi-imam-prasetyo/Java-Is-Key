@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.oop;
+
 class Mobil {
     String merk;
     int kecepatan;

@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.basic;
+
 public class Perbandingan {
     public Perbandingan() {
         int a = 10, b = 20;

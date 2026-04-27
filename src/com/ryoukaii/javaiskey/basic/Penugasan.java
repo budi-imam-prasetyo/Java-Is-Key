@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.basic;
+
 public class Penugasan {
     public Penugasan() {
         int a = 10;

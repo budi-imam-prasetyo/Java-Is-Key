@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.basic;
+
 public class Logika {
     public Logika() {
         boolean a = true, b = false;

@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.array;
+
 public class Array {
     public Array(){
         int[] angka = {10, 20, 30, 40, 50};

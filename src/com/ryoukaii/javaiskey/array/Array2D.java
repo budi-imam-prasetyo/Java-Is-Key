@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.array;
+
 public class Array2D {
     public Array2D(){
         int [][] matrix = {

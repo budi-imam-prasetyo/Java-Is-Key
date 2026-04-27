@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.basic;
+
 public class Aritmatika {
     public Aritmatika() {
         int a = 15, b =4;

@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.arraylist;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

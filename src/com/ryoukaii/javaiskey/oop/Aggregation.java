@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.oop;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -34,8 +36,8 @@ class Buku {
     }
 }
 
-public class Agregation {
-    public Agregation() {
+public class Aggregation {
+    public Aggregation() {
         Perpustakaan perpustakaan1 = new Perpustakaan("Perpustakaan Kota");
         Buku buku1 = new Buku("Pemrograman Java");
         Buku buku2 = new Buku("Dasar-dasar Algoritma");

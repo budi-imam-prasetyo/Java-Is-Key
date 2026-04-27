@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.studycase;
+
 import java.util.Scanner;
 
 public class Kalkulator {

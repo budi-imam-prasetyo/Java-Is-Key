@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.oop;
+
 public class Kendaraan {
     public Kendaraan() {
         final int JUMLAH_RODA = 4;

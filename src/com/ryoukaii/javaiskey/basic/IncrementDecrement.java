@@ -1,3 +1,5 @@
+package com.ryoukaii.javaiskey.basic;
+
 public class IncrementDecrement {
     public IncrementDecrement() {
         int x = 10;
