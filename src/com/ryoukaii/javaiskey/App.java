@@ -33,6 +33,9 @@ public class App{
         System.out.println("19. Composition");
         System.out.println("20. Association");
         System.out.println("21. Aggregation");
+        System.out.println("22. Inheritance");
+        System.out.println("23. Encapsulation");
+        System.out.println("24. Polymorphysm");
 
         System.out.print("Pilih nomor program: ");
         int input = scanner.nextInt();
@@ -59,6 +62,9 @@ public class App{
             case 19 -> new Composition();
             case 20 -> new Association();
             case 21 -> new Aggregation();
+            case 22 -> new Inheritance();
+            case 23 -> new Encapsulation();
+            case 24 -> new Polymorphysm();
             default -> System.out.println("Input tidak valid.");
         }
         scanner.close();
